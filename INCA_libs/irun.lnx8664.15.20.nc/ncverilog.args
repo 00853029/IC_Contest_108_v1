@@ -1,0 +1,12 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+tb_term.sv
+SME_syn.v
+-v
+tsmc13_neg.v
++ncmaxdelays
++define+SDF
++access+r
++nc64bit
